@@ -30,6 +30,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>robotic_machine_128px_1306072_easyicon.net.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -43,6 +46,9 @@
     <Compile Include="plc.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sharp7.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="robotic_machine_128px_1306072_easyicon.net.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

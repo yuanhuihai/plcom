@@ -9,7 +9,7 @@ namespace plcom
     public class plc
     {
 
-        string testc;
+        
         S7Client Client = new S7Client();
 
         public int readPlcDbwValue(string plcIp, int Rack, int Slot, int DbNum, int DbwNum)

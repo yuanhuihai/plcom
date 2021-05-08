@@ -9,7 +9,9 @@
     <license type="expression">MIT</license>
     <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
     <iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>
-    <description>test</description>
+    <description>1-通过西门子S7协议访问西门子PLC。
+                 2-定义如下方法，读写DB块中任意数据。
+    </description>
     <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
     <copyright>$copyright$</copyright>
     <tags>Tag1 Tag2</tags>
